@@ -10,9 +10,9 @@ Este proyecto es un ejercicio práctico en dos etapas fundamentales: primero, la
 
 ---
 
-## 📌 Estructura del Proyecto (Flujo de Trabajo)
+## 📌 Estructura del Proyecto
 
-El proyecto está dividido en dos cuadernos de Jupyter (`.ipynb`) independientes pero conectados secuencialmente:
+El proyecto está dividido en dos cuadernos `.ipynb` independientes pero conectados secuencialmente:
 
 ### Etapa 1: Preprocesamiento y Limpieza de Datos (`preprocesamiento_Pandas.ipynb`)
 En esta primera fase, se abordan los desafíos típicos de la preparación de datos (*Data Cleaning*):
